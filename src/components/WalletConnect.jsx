@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { Connection, clusterApiUrl } from '@solana/web3.js';
-import { useWallet, WalletAdapterNetwork } from '@solana/wallet-adapter-react';
+import { useWallet } from '@solana/wallet-adapter-react';
+import { WalletAdapterNetwork } from '@solana/wallet-adapter-base';
 import { WalletModalProvider, WalletMultiButton } from '@solana/wallet-adapter-react-ui';
 
 require('@solana/wallet-adapter-react-ui/styles.css');
