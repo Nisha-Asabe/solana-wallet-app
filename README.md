@@ -1,3 +1,1 @@
-
-
 # solana-wallet-app
