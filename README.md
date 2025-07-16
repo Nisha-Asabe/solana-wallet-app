@@ -1,3 +1,3 @@
-<<<<<<< HEAD
+
 
 # solana-wallet-app
